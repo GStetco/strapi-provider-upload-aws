@@ -16,7 +16,7 @@
   "main": "./lib",
   "dependencies": {
     "aws-sdk": "^2.441.0",
-    "sharp": "^0.22.1"
+    "sharp": "^0.23.3"
   },
   "strapi": {
     "isProvider": true
